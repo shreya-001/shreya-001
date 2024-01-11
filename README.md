@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreya Nair</h1>
+<h1 align="center">Hi 👋, I'm Shreya</h1>
 <h3 align="center">"Passionate Learner and Fearless Explorer in AI/ML | Embracing Challenges, Experimenting with Enthusiasm | Delighting in the Art of Data Exploration 🚀"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-001&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-001" /> </p>
