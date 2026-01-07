@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, Natural Language Processing**
 - 💬 Ask me about **Data science, Artificial Intelligence**
-- 📫 How to reach me **shreyanair.1697@gmail.com**
+- 📫 How to reach me **shreyanairjob@gmail.com**
 - 👨‍💻 All of my projects are available at **https://shreya-nair.netlify.app/**
 
 <div> <a href="https://www.linkedin.com/in/shreya-nair-gopi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
